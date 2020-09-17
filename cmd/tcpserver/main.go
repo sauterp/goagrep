@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/codegangsta/cli"
+	"github.com/urfave/cli"
 	"github.com/firstrow/tcp_server"
 	"github.com/schollz/goagrep/goagrep"
 )
